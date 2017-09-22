@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+        <element id="library" level="project" name="Maven: com.h2database:h2:1.4.196" />
+        <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+        <element id="library" level="project" name="Maven: junit:junit:3.8.1" />
+        <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+        <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.21" />
+        <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.21" />
+        <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.21" />
+        <element id="library" level="project" name="Maven: org.springframework.security:spring-security-acl:4.2.3.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework.security:spring-security-config:4.2.3.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework.security:spring-security-core:4.2.3.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework.security:spring-security-taglibs:4.2.3.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework.security:spring-security-web:4.2.3.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.0.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.0.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.0.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.0.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.0.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.0.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.0.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.0.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.0.RELEASE" />
+      </element>
+    </root>
+  </artifact>
+</component>
